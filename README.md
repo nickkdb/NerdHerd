@@ -2,7 +2,7 @@
 
 https://nerdherd-group5.herokuapp.com/
 
-*** This is an individual copy of the repository this project was built in, to view original repository as well as full commit history navigate to: https://github.com/nickkdb/Project3
+*** This is an individual copy of the repository this project was built in, to view original repository with all 303 commits navigate to: https://github.com/nickkdb/Project3
     
 ## Table of Contents
 - [Description](#Description)
